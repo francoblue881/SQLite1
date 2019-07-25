@@ -7,6 +7,9 @@ namespace SQLite1.Models
 {
   class Producto
   {
+    // algo
+    int algo = 0;
+
     public int Id { get; set; }
     public string Nombre { get; set; }
     public double Precio { get; set; }
