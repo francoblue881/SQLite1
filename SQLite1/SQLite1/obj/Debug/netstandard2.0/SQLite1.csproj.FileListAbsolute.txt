@@ -1,0 +1,8 @@
+C:\Users\Fran\source\repos\SQLite\SQLite1\SQLite1\SQLite1\bin\Debug\netstandard2.0\SQLite1.deps.json
+C:\Users\Fran\source\repos\SQLite\SQLite1\SQLite1\SQLite1\bin\Debug\netstandard2.0\SQLite1.dll
+C:\Users\Fran\source\repos\SQLite\SQLite1\SQLite1\SQLite1\obj\Debug\netstandard2.0\SQLite1.csprojAssemblyReference.cache
+C:\Users\Fran\source\repos\SQLite\SQLite1\SQLite1\SQLite1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fran\source\repos\SQLite\SQLite1\SQLite1\SQLite1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Fran\source\repos\SQLite\SQLite1\SQLite1\SQLite1\obj\Debug\netstandard2.0\SQLite1.csproj.CoreCompileInputs.cache
+C:\Users\Fran\source\repos\SQLite\SQLite1\SQLite1\SQLite1\obj\Debug\netstandard2.0\SQLite1.AssemblyInfoInputs.cache
+C:\Users\Fran\source\repos\SQLite\SQLite1\SQLite1\SQLite1\obj\Debug\netstandard2.0\SQLite1.AssemblyInfo.cs
